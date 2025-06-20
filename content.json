@@ -2,7 +2,7 @@
     "mods": {
         "@ace": "https://tinyurl.com/4hznh2sa",
         "@ACEGrenades": "https://tinyurl.com/5n8snacm",
-        "@ace_nouniformrestrictions": "@ace/optionals/",    
+        "@ace_nouniformrestrictions": "@ace/optionals/",
         "@AdvancedRappelling": "https://tinyurl.com/2p9fs3u6",
         "@AdvancedSlingLoading": "https://tinyurl.com/yha3x8wk",
         "@AdvancedTowing": "https://tinyurl.com/kfctya6a",
@@ -18,7 +18,7 @@
         "@cac_aue": "https://tinyurl.com/y6uwn8ms",
         "@CAC_Liberation": "https://tinyurl.com/y2devn4n",
         "@CBA_A3": "https://tinyurl.com/uvs5dkdj",
-        "@CFP" : [
+        "@CFP": [
             "https://tinyurl.com/38sx99t9",
             "https://tinyurl.com/bdcwjn3a"
         ],
@@ -48,7 +48,7 @@
         "@IFA3": [
             "http://tinyurl.com/83kpazcu",
             "http://tinyurl.com/mujx6fpu",
-            "http://tinyurl.com/yyhftr5k"  
+            "http://tinyurl.com/yyhftr5k"
         ],
         "@IslaDuala": "http://tinyurl.com/2p93aayh",
         "@JBad": "https://tinyurl.com/mry9cpde",
@@ -80,51 +80,44 @@
         "@VET_Unflipping": "https://tinyurl.com/5ezzd7my",
         "@VirolahtiValtatie7": "https://tinyurl.com/yc27asp5",
         "@X66-MammothTank": "https://tinyurl.com/3d4kp7c8",
-        "@Yulakia": "https://tinyurl.com/YulakiaModCAC",
-
-        "optionals": {
-            "@ARM": "https://tinyurl.com/vnt3z7y2",
-            "@Athena": "https://tinyurl.com/2jjat265",
-            "@AthenaWeb": "https://tinyurl.com/yx6w4nnw",
-            "@AutomaticViewDistance": "https://tinyurl.com/yr7tf46e",
-            "@A3ThermalImprovement": "https://tinyurl.com/p7zracxf",
-            "@BetterInventory": "https://tinyurl.com/2ptkn8mw",
-            "_comment": "TODO not sure if blastcore is optional or required for a1/a2",
-            "@DiscordRichPrescence": "https://tinyurl.com/45psxnch",
-            "@DUI": "https://tinyurl.com/ms2e5ynz",
-            "@EnhancedMap": "https://tinyurl.com/3y8bctpf",
-            "@EnhancedMapAce": "https://tinyurl.com/32n3c98n",
-            "@JSRS USAF": "https://tinyurl.com/yc28r556",
-            "@JSRS_AFRF": "https://tinyurl.com/nhe4hfrf",
-            "@JSRS_GREF": "https://tinyurl.com/y4w23nkb",
-            "@JSRS_SAF": "https://tinyurl.com/2tprk8d9",
-            "@JSRS_SOUNDMOD": "https://tinyurl.com/26h79782",
-            "@VanillaSmokeForBlastcore": "https://tinyurl.com/ms5c4vcf"
-        }
+        "@Yulakia": "https://tinyurl.com/YulakiaModCAC"
+    },
+    "optionals": {
+        "@ARM": "https://tinyurl.com/vnt3z7y2",
+        "@Athena": "https://tinyurl.com/2jjat265",
+        "@AthenaWeb": "https://tinyurl.com/yx6w4nnw",
+        "@AutomaticViewDistance": "https://tinyurl.com/yr7tf46e",
+        "@A3ThermalImprovement": "https://tinyurl.com/p7zracxf",
+        "@BetterInventory": "https://tinyurl.com/2ptkn8mw",
+        "@DiscordRichPrescence": "https://tinyurl.com/45psxnch",
+        "@DUI": "https://tinyurl.com/ms2e5ynz",
+        "@EnhancedMap": "https://tinyurl.com/3y8bctpf",
+        "@EnhancedMapAce": "https://tinyurl.com/32n3c98n",
+        "@JSRS USAF": "https://tinyurl.com/yc28r556",
+        "@JSRS_AFRF": "https://tinyurl.com/nhe4hfrf",
+        "@JSRS_GREF": "https://tinyurl.com/y4w23nkb",
+        "@JSRS_SAF": "https://tinyurl.com/2tprk8d9",
+        "@JSRS_SOUNDMOD": "https://tinyurl.com/26h79782",
+        "@VanillaSmokeForBlastcore": "https://tinyurl.com/ms5c4vcf"
     },
 
     "arma": {
         "version": "v2.18.152405",
-        "_comment": "TODO make multipart links",
         "link": "tinyurl.com/298db6mc",
         "pwd": "cs.rin.ru"
     },
-
     "dlc": {
         "rf": {
             "link": "https://tinyurl.com/2k85bmyc",
             "pwd": "cs.rin.ru",
             "description": "Reaction Forces"
         },
-
         "ws": {
             "link": "https://tinyurl.com/yj49n83r",
             "pwd": "cs.rin.ru",
             "description": "Western Sahara"
         },
-
         "spe": {
-            "_comment": "TODO make multipart links",
             "link": "https://tinyurl.com/2p9k9dsn",
             "pwd": "cs.rin.ru",
             "description": "Spearhead 1944"
