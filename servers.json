@@ -107,7 +107,8 @@
             "@X66-MammothTank",
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling"
-        ]
+        ],
+	password: true
     },
 
     "Exile Escape": {
