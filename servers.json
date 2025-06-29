@@ -75,7 +75,7 @@
             "@KPRanks",
             "@Suppress",
             "@Vehicle_Inventory_System",
-            "@VET_Unlfipping",
+            "@VET_Unflipping",
             "@CAC_Liberation",
             "@RealEngine"
         ]
@@ -108,7 +108,7 @@
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling"
         ],
-	password: true
+	"password": true
     },
 
     "Exile Escape": {
