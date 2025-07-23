@@ -2,7 +2,6 @@
     "Antistasi 1": {
         "address": "unladencoconut.ddns.net",
         "port": 3302,
-
         "mods": [
             "rf",
             "@ace",
@@ -21,24 +20,24 @@
             "@VET_Unflipping",
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling",
-            "@ACEGrenades"
+            "@ACEGrenades",
+            "@HideAmongTheGrass"
         ]
     },
-
     "Antistasi 2": {
-        "address":"unladencoconut.ddns.net",
+        "address": "unladencoconut.ddns.net",
         "port": 2702,
-
         "mods": [
+            "rf",
             "@CBA_A3",
-            "@Lingor-DingorIsland",
+            "@GreenSea",
+            "@CUPTerrainsCore",
             "@AntistasiUltimate",
             "@cac_aue",
-            "@CUPTerrainsCore",
-            "@RHSAFRF",
-            "@RHSGREF",
-            "@RHSSAF",
-            "@RHSUSAF",
+            "@CUPUnits",
+            "@CUPVehicles",
+            "@CUPWeapons",
+            "@BWMod",
             "@AWR",
             "@RealEngine",
             "@ace",
@@ -49,11 +48,9 @@
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling",
             "@ACEGrenades",
-	    "@Sehreno",
-	    "@Jbad"
+            "@HideAmongTheGrass"
         ]
     },
-
     "Liberation": {
         "address": "theghost.ddns.net",
         "port": 3302,
@@ -77,10 +74,10 @@
             "@Vehicle_Inventory_System",
             "@VET_Unflipping",
             "@CAC_Liberation",
-            "@RealEngine"
+            "@RealEngine",
+            "@HideAmongTheGrass"
         ]
     },
-
     "King of The Hill": {
         "address": "cackoth.servebeer.com",
         "port": 2322,
@@ -93,7 +90,6 @@
             "@AdvancedUrbanRappelling"
         ]
     },
-
     "Exile": {
         "address": "rkb1.home.ro",
         "port": 2402,
@@ -108,9 +104,8 @@
             "@AdvancedRappelling",
             "@AdvancedUrbanRappelling"
         ],
-	"password": true
+        "password": true
     },
-
     "Exile Escape": {
         "address": "",
         "port": 2372,
