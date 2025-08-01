@@ -2,6 +2,7 @@
     "Antistasi 1": {
         "address": "unladencoconut.ddns.net",
         "port": 3302,
+        "country": "United Kingdom",
         "mods": [
             "rf",
             "@ace",
@@ -27,6 +28,7 @@
     "Antistasi 2": {
         "address": "unladencoconut.ddns.net",
         "port": 2702,
+        "country": "United Kingdom",
         "mods": [
             "rf",
             "@CBA_A3",
@@ -54,6 +56,7 @@
     "Liberation": {
         "address": "theghost.ddns.net",
         "port": 3302,
+        "country": "United Kingdom",
         "mods": [
             "@ace",
             "@ace_nouniformrestrictions",
@@ -81,6 +84,7 @@
     "King of The Hill": {
         "address": "cackoth.servebeer.com",
         "port": 2322,
+        "country": "Czech Republic, EU",
         "mods": [
             "@CBA_A3",
             "@EnhancedMovement",
@@ -93,6 +97,7 @@
     "Exile": {
         "address": "rkb1.home.ro",
         "port": 2402,
+        "country": "Romania",
         "mods": [
             "@Exile",
             "@CBA_A3",
@@ -109,6 +114,7 @@
     "Exile Escape": {
         "address": "cackoth.servebeer.com",
         "port": 2372,
+        "country": "Uknown",
         "mods": [
             "@Exile",
             "@CBA_A3",
