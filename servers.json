@@ -107,7 +107,7 @@
         "password": true
     },
     "Exile Escape": {
-        "address": "",
+        "address": "cackoth.servebeer.com",
         "port": 2372,
         "mods": [
             "@Exile",
