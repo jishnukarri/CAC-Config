@@ -84,7 +84,7 @@
     "King of The Hill": {
         "address": "cackoth.servebeer.com",
         "port": 2322,
-        "country": "Czech Republic, EU",
+        "country": "Czech Republic",
         "mods": [
             "@CBA_A3",
             "@EnhancedMovement",
@@ -114,7 +114,7 @@
     "Exile Escape": {
         "address": "cackoth.servebeer.com",
         "port": 2372,
-        "country": "Uknown",
+        "country": "Czech Republic",
         "mods": [
             "@Exile",
             "@CBA_A3",
