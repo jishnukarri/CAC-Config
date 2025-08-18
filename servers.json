@@ -54,32 +54,38 @@
         ]
     },
     "Liberation": {
-        "address": "theghost.ddns.net",
+        "address": "ge1.server.jishnukarri.me",
         "port": 3302,
-        "country": "United Kingdom",
+        "country": "EU",
         "mods": [
             "@ace",
-            "@ace_nouniformrestrictions",
             "@ACEGrenades",
+            "@ace_nouniformrestrictions",
             "@AdvancedRappelling",
-            "@AdvancedUrbanRappelling",
             "@AdvancedSlingLoading",
             "@AdvancedTowing",
+            "@AdvancedUrbanRappelling",
             "@Align",
+            "@CAC_Liberation",
             "@CBA_A3",
             "@CUPUnits",
             "@CUPVehicles",
             "@CUPWeapons",
             "@EnhancedMovement",
             "@EnhancedMovementRework",
+            "@HideAmongTheGrass",
             "@KPRanks",
+            "@ProjectOPFOR",
+            "@RealEngine",
+            "@RHSAFRF",
+            "@RHSGREF",
+            "@RHSSAF",
+            "@RHSUSAF",
             "@Suppress",
             "@Vehicle_Inventory_System",
-            "@VET_Unflipping",
-            "@CAC_Liberation",
-            "@RealEngine",
-            "@HideAmongTheGrass"
+            "@VET_Unflipping"
         ]
+
     },
     "King of The Hill": {
         "address": "cackoth.servebeer.com",
